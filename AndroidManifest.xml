@@ -3,7 +3,7 @@
    package="com.stark.slideshow" android:versionCode="1"
    android:versionName="1.0">
       <uses-sdk android:minSdkVersion="8" />
-   <application android:icon="@drawable/icon" 
+   <application android:icon="@drawable/ishaicon" 
       android:label="@string/app_name"
       android:debuggable="false">
       <activity android:name=".Slideshow" 
